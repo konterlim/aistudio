@@ -1,0 +1,6 @@
+{
+  "name": "Minha sala de aula",
+  "description": "Ambiente educacional interativo com quadro visual didático, caderno de estudos, tutor por voz com Gemini Live e geração de infográficos.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
